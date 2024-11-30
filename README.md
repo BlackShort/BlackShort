@@ -1,4 +1,4 @@
-<img src="./bgimage.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Bg Image" />
+<img src="./bgimage.jpg" style="height: 300px; object-fit: cover;" alt="Bg Image" />
 
 
 <br/>
