@@ -1,5 +1,5 @@
-<p align="center" style="width: 100%; height: 250px; overflow: hidden; position: relative;">
-  <img src="./bgimage.jpg" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0;" alt="Bg Image" />
+<p align="center" style="width: 100%; overflow: hidden; position: relative;">
+  <img src="./bgimage.jpg" style="width: 100%; height: 250; object-fit: cover; position: absolute; top: 0; left: 0;" alt="Bg Image" />
 </p>
 
 
