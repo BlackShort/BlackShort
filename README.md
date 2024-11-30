@@ -12,9 +12,9 @@
   Hi there, I'm Priyanshu Kumar 👋
 </h1>
 
-<div style="width: 100%; display: flex; justify-content: center;">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=A+Passionate+Developer+from+India;Full+Stack+%7C+Cloud+%7C+DevOps+%7C+MLOps;Code.+Create.+Collaborate.;Let's+Connect+and+Build+Together!" alt="Typing SVG" />
-</div>
+</p>
 
 <br/>
 
